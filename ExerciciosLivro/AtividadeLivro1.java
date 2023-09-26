@@ -1,7 +1,7 @@
 // importa a biblioteca de Scan que permite que o usuário faça inputs na aplicação
 import java.util.Scanner;
 
-public class Atividade1 {
+public class AtividadeLivro1 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
